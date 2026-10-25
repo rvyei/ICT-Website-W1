@@ -28,7 +28,6 @@ body {
   min-height: 100vh;
 }
 
-/* Header & Navigation */
 .site-header {
   background-color: var(--primary-color);
   display: flex;
@@ -68,7 +67,6 @@ body {
   border-radius: 6px;
 }
 
-/* Layout Utilities & Full Screen Sections */
 .container {
   text-align: center;
   width: 100%;
@@ -78,13 +76,13 @@ body {
 }
 
 .full-page-section {
-  min-height: calc(100vh - 70px); /* Height of screen minus navbar */
+  min-height: calc(100vh - 70px);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 3rem 1rem;
-  scroll-margin-top: 70px;  /* Offset for sticky header */
+  scroll-margin-top: 70px;
 }
 
 .section-title {
@@ -106,7 +104,6 @@ body {
   border-radius: 2px;
 }
 
-/* Hero Section */
 .hero-content {
   display: flex;
   flex-direction: column;
@@ -139,7 +136,6 @@ body {
   animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
 }
 
-/* Pretty About Me Section */
 .about-card {
   background-color: var(--bg-card);
   border: 2px solid rgb(57, 8, 8);
@@ -182,7 +178,6 @@ body {
   margin-top: 1.2rem;
 }
 
-/* Bigger Cards Grid (Skills) */
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -261,7 +256,6 @@ body {
   margin-right: 6px;
 }
 
-/* Form Styles */
 form.contact-form {
   display: flex;
   flex-direction: column;
@@ -315,7 +309,6 @@ form button:hover {
   background-color: var(--primary-hover);
 }
 
-/* Footer */
 footer {
   background-color: var(--primary-color);
   color: #ffffff;
@@ -324,7 +317,6 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Keyframes */
 @keyframes fadeInUp {
   from {
     opacity: 0;
