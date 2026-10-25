@@ -1,7 +1,7 @@
 # STUDENT PORTFOLIO PROJECT
 
 ## Project Description
-<img width="1906" height="1012" alt="jpg webscreenshot" src="https://github.com/user-attachments/assets/1f441936-83b4-436f-900d-2a71097ba026" />
+<img width="1906" height="1012" alt="jpg webscreenshot" src="https://github.com/user-attachments/assets/273884f7-8594-4b6e-9df1-261427fb16f7" />
 
 ### Introduction
 This project, called Kakarl's Portfolio, is a personal student portfolio built to showcase technical skills in programming, featured programming languages used, student background, and contact details.
